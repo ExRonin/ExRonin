@@ -10,7 +10,8 @@
   - 📫 How to reach me via email: `mprafitap@gmail.com` or 'xposedlizard@gmail.com' <br>
   - 💻 How to reach me via Discord: ExRonin#2207 <br>
   - 💻 How to reach me via telegram: <a href="http://t.me/AnonimSec" target="_blank" rel="noreferrer">@AnonimSec</a><br>
-  - 💻 Checkout my interactive Web3 portfolio: <a href="" target="_blank" rel="noreferrer">it's still under construction!</a><br>
+  - 💻 Checkout my interactive Web portfolio: <a href="https://www.devprafi.tk/" target="_blank" rel="noreferrer">it's still under construction!</a><br>
+  - 💻 Lihat Portofolio Saya : <a href="http://portoprafi.tk/" target="_blank" rel="noreferrer"></a><br>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ExRonin" height="350" width="350"/></p>
