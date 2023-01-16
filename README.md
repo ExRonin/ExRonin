@@ -7,7 +7,7 @@
     alt="ExRonin" /> 
   </p>
   - 📫 Currently improving on: learning the Programing<br>
-  - 📫 How to reach me via email: `mprafitap@gmail.com` or 'xposedlizard@gmail.com' <br>
+  - 📫 How to reach me via email: `mprafitap@gmail.com` <br>
   - 💻 How to reach me via Discord: ExRonin#2207 <br>
   - 💻 How to reach me via telegram: <a href="http://t.me/AnonimSec" target="_blank" rel="noreferrer">@AnonimSec</a><br>
   - 💻 Checkout my interactive Web portfolio: <a href="https://www.devprafi.tk/" target="_blank" rel="noreferrer">it's still under construction!</a><br>
